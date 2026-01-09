@@ -101,7 +101,7 @@ To get the most of this book, you will need to have the knowledge of Structured 
 
 
 <details> 
-  <summary><h2>Get to know Authors</h2></summary>
+  <summary><h2>Get to know Author</h2></summary>
 
 _M. T. White_ has been programming since the age of 12. His fascination with robotics flourished when he was a child programming microcontrollers. He holds an undergraduate degree in mathematics, a master's degree in software engineering, and an MBA in IT management. He is currently working as a software developer for a major US defense contractor and is an adjunct CIS instructor, where he teaches Python, C, and an array of other courses. His background mostly stems from the automation industry where he programmed PLCs and HMIs for many different types of applications. He has programmed many different brands of PLCs over the years and has developed HMIs using many different tools. Other technologies that he is fluent in include Linux, Ansible, Docker, AWS, C#, Java, and Python. Be sure to check out his channel AlchemicalComputing on YouTube.
 
